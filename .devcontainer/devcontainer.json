@@ -5,7 +5,7 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
 	"features": {
-		"ghcr.io/rocker-org/devcontainer-features/r-rig:1": {
+		"ghcr.io/rocker-org/devcontainer-features/r-rig:2": {
 			"installDevTools": true,
 			"installREnv": true,
 			"installRMarkdown": true,
